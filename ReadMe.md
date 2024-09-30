@@ -1,4 +1,17 @@
 
+# 💫 About Me:
+Bachelor's degree in Computer Science and Master's degree in Information Systems from National Cheng Kung University<br>Strong background in information technology and research experience<br>Focused on medical image analysis research during master's studies, collaborated with physicians on several projects<br>Served as a teaching assistant, assisting with departmental tasks and building good relationships with faculty and students<br>Actively participated in on-campus and off-campus activities, expanding personal network
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hsing-chuan) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CcepWang&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CcepWang&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CcepWang&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CcepWang&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hsing-chuan) 
 
